@@ -21,7 +21,7 @@ data = req.json()
 # Name Of JSON key that will give out a value
 response = data['cnt']
 
-# Data responded by API
+# Data responded by API if status is 200, if not then throws an error in console
 if req.status_code == 200:
         time.sleep(1)
         typing("ChatBot:-  " + response)
