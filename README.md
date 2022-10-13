@@ -5,7 +5,11 @@
 ### [**Made by RLX**](https://discord.com/invite/SN3mZPxjEW)
 ***
 
+<br/>
+
+We are using [brainshop.ai](https://brainshop.ai) API.
 ## Installation Guide
+<br/>
 
 <br/>
 
