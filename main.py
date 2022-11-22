@@ -1,8 +1,8 @@
 import requests, time
 
+name = input("Enter Your Name Here :-")
 
 def chatBot():
-        name = "Enter Your name here"
         msg = input(name + ":-  ")
 
 # API url for chat response
