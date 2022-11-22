@@ -13,8 +13,8 @@ We are using [brainshop.ai](https://brainshop.ai) API.
 
 <br/>
 
-- in `main.py` Add your name in *name* key
-- `python3 main.py` or `python main.py` to start the ChatBot
+- To install dependencies run `pip install -r requirements.txt` in console
+- Run `python3 main.py` or `python main.py` in console to start the ChatBot
 
 <br/>
 
